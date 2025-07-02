@@ -4,7 +4,7 @@ notes, files, examples for ACDH-CH's "Meet the researchers'" introduction to TEI
 
 ## Introduction
 
-### Why do I need TEI and/or [Oxygen XML Editor](https://www.oxygenxml.com/)
+### Why do I need [TEI](https://tei-c.org/) and/or [Oxygen XML Editor](https://www.oxygenxml.com/)
 
 - to **mark up** (see [markup.md](markup.md)) or capture **structured** information about any kind of [text](https://texperimentales.hypotheses.org/1318)
 
