@@ -58,7 +58,7 @@ notes, files, examples for ACDH-CH's "Meet the researchers'" introduction to TEI
 - https://tillich-briefe.acdh.oeaw.ac.at/
 - https://github.com/TillichCorrespondence
 
-## Tillich-Lectures
+### Tillich-Lectures
 
 - https://tillichcorrespondence.github.io/tillich-lectures-static/
 - https://github.com/TillichCorrespondence
@@ -76,3 +76,7 @@ a python package providing helper functions for the generation of CIDOC CRMish R
 ### [transkribus-export-cookicutter](https://github.com/acdh-oeaw/acdh-cidoc-pyutils)
 
 A code template to export Transkribus Collections as XML/TEI Documents
+
+### [dse-static-cookiecutter](https://github.com/acdh-oeaw/dse-static-cookiecutter)
+
+ A static site generator powered by TEI/XML files for digital editions
